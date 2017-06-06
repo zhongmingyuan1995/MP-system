@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/assets/js/app.js=UTF-8
+encoding//WebContent/css/loginregister.css=UTF-8
+encoding//WebContent/js/jquery.zySlide.js=UTF-8
+encoding//WebContent/js/my.js=UTF-8
+encoding//src/com/mps/controller/UserAction.java=GBK
+encoding//src/com/mps/domain/User.java=UTF-8
+encoding//src/com/mps/mapper/PatientMapper.java=UTF-8
+encoding//src/com/mps/mapper/UserMapper.java=UTF-8
+encoding//src/com/mps/servlet/ImageCodeServlet.java=UTF-8
+encoding//src/com/mps/util/BeanUtil.java=UTF-8
+encoding//src/com/mps/util/Md5Util.java=UTF-8
+encoding//src/com/mps/util/SessionUtil.java=UTF-8
